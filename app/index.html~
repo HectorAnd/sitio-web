@@ -49,8 +49,8 @@
     <button type="button" class="btn btn-link">Link</button>
 
     <div class="hero-unit">
-        <h1>Hola hola</h1>
-        <p>ahora tenemnos </p>
+        <h1>'Allo, 'Allo!</h1>
+        <p>You now have</p>
         <ul>
             <li>HTML5 Boilerplate</li>
             <li>Sass</li>
