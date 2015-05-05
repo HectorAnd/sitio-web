@@ -3355,6 +3355,10 @@ textarea {
 dropdown-menu {
   background-color: #8F5EA0;
 }
+.logo {
+  margin: 0 auto;
+  height: 200px;
+}
 .fade {
   opacity: 0;
   transition: opacity 0.15s linear;
