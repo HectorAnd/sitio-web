@@ -3359,6 +3359,12 @@ dropdown-menu {
   margin: 0 auto;
   height: 200px;
 }
+.top75 {
+  margin-top: 75px;
+}
+.top30 {
+  margin-top: 30px;
+}
 .fade {
   opacity: 0;
   transition: opacity 0.15s linear;
